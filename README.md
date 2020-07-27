@@ -1,11 +1,12 @@
-## Welcome to GoodSprout
+# Welcome to GoodSprout
 
 
-# What to do?
+## What to do?
 1. Download the project.
-2. Download the Xcode and VSCode/Android studio. (Iphone or android simulator)
-3. Download Flutter SDK. https://flutter.dev/docs/get-started/install/macos
-4. Run the app. -> either type 'flutter run' in terminal of VSCode or click 'Run/Start debugging'
+2. Download Xcode. (We need Xcode to use the iphone simulator) --> appstore
+3. Download VS Code. --> https://code.visualstudio.com/download
+4. Download Flutter SDK. --> https://flutter.dev/docs/get-started/install/macos
+5. Run the app. -> either type 'flutter run' in terminal of VSCode or click 'Run/Start debugging'
 
 
 ## Getting Started
