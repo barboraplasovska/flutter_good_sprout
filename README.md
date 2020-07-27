@@ -1,6 +1,12 @@
-# good_sprout
+## Welcome to GoodSprout
 
-A new Flutter project.
+
+# What to do?
+1. Download the project.
+2. Download the Xcode and VSCode/Android studio. (Iphone or android simulator)
+3. Download Flutter SDK. https://flutter.dev/docs/get-started/install/macos
+4. Run the app. -> either type 'flutter run' in terminal of VSCode or click 'Run/Start debugging'
+
 
 ## Getting Started
 
